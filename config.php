@@ -14,9 +14,9 @@ $conn = mysql_connect("localhost","root","root")
  */
 
 $databaseHost = 'localhost';
-$databaseName = 'test';
-$databaseUsername = 'root';
-$databasePassword = 'root';
+$databaseName = 'crud_php_simple';
+$databaseUsername = 'spot';
+$databasePassword = 'W';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
  

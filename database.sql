@@ -1,6 +1,6 @@
-create database test;
+create database crud_php_simple;
 
-use test;
+use crud_php_simple;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL auto_increment,
